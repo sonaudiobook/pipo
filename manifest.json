@@ -1,20 +1,18 @@
 {
   "name": "Pipo y el regalo del cielo",
-  "short_name": "Pipo",
-  "start_url": "/pipo/index.html",
-  "scope": "/pipo/",
+  "short_name": "PipoCuento",
+  "start_url": "index.html",
   "display": "standalone",
   "background_color": "#323232",
   "theme_color": "#323232",
-  "orientation": "any",
   "icons": [
     {
-      "src": "/pipo/files/extfile/icon-192.png",
+      "src": "files/extfile/icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/pipo/files/extfile/icon-512.png",
+      "src": "files/extfile/icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
